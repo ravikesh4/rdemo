@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+/* ============================== */
+/* 
+	- Title: Simplify Landing Page - Blue Color
+	- Autor: Coralix Themes
+	- Email: coralixthemes@gmail.com
+	- Version: 2.0
+*/
+/* ============================== */
+
+/*Light color*/
+a:hover{
+	color: #26a3ea;
+}
+.color_title{
+	color: #26a3ea;	
+}
+.social ul li:hover{	
+	border: 2px solid #26a3ea;
+}
+.social ul li:hover i{	
+	color: #26a3ea;	
+}
+.is-sticky{
+	background-color: #26a3ea;
+}
+.head_info{
+	background-color: #26a3ea;
+}
+.overlay{
+	background-color: #26a3ea;
+	background-color: rgba(38, 163, 234,0.7);
+}
+.info_testimonial{
+	background: #26a3ea;
+	background: rgba(38, 163, 234,0.7);
+}
+#pricing .dg-center .button{
+	background-color: #26a3ea;
+	border:5px solid #26a3ea;
+}
+#pricing .item_princing .button:hover {
+	border-color:#26a3ea;
+	color: #26a3ea;	
+}
+input.button{
+	background-color: #26a3ea;
+	border-color: #26a3ea;
+}
+input.button:hover{
+	border-color:#26a3ea;
+	color: #26a3ea;	
+}
+.contact input.button{
+	background-color: #26a3ea;
+	border-color:#26a3ea;
+}
+.contact input.button:hover{
+	border-color: #26a3ea;
+	color: #26a3ea;	
+}
+.tooltip-inner {
+  background: #26a3ea;  
+}
+.tooltip.top .tooltip-arrow {
+  border-top-color:#26a3ea;  
+}
+.dg-wrapper .item_princing.dg-center h2{
+	background-color: #26a3ea;
+}
+
+/*Dark color*/
+.head_info .button{
+	background-color: #1f83bd;
+	border-color: #1f83bd;
+}
+
+/*Image Color*/
+.head_info{
+	background-image: url("../../img/background-color-blue.jpg");
+}
+
+
+
+
+
+
+
+
+
+
+
